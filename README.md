@@ -1,5 +1,5 @@
 # lo3loader-sharp
-lo3loader-sharpは、CSGOの時代に国内で最もメジャーだった[lo3loader](https://github.com/Thiry1/lo3loader) というプラグインと、その開発者である [@Thiry1](https://github.com/Thiry1) 氏へのリスペクを込めて、現代の技術でlo3loaderを再実装するプロジェクトです。  
+lo3loader-sharpは、CSGOの時代に国内で最もメジャーだった[lo3loader](https://github.com/Thiry1/lo3loader) というプラグインと、その開発者である [@Thiry1](https://github.com/Thiry1) 氏へのリスペクトを込めて、現代の技術でlo3loaderを再実装するプロジェクトです。  
 
 ## コンソールコマンド
 | コマンド  | 詳細 |
